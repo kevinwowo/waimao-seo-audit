@@ -1,0 +1,28 @@
+{
+  "name": "waimao-seo-audit",
+  "version": "1.1.0",
+  "description": "外贸独立站 SEO 体检工具——为新上线的跨境独立站做一次完整 SEO 审计，输出 HTML 报告 + Excel + 关键词聚类与 Fan-Out。开源 MIT。",
+  "type": "module",
+  "bin": {
+    "waimao-seo": "bin/cli.js",
+    "waimao-seo-build-site": "bin/build-site.js"
+  },
+  "files": ["bin", "src", "contact.json", "README.md", "使用指南.md", "新手上手指南.md", "LICENSE"],
+  "scripts": {
+    "start": "node bin/cli.js"
+  },
+  "keywords": ["seo", "audit", "cross-border", "外贸", "独立站", "shopify", "keyword-clustering"],
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "commander": "^12.1.0",
+    "exceljs": "^4.4.0",
+    "fast-xml-parser": "^4.5.0",
+    "p-limit": "^6.1.0",
+    "qrcode": "^1.5.4"
+  },
+  "optionalDependencies": {
+    "puppeteer-core": "^23.0.0"
+  }
+}

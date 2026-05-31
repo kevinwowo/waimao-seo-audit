@@ -1,0 +1,13 @@
+{
+  "brand": "[你的品牌或个人姓名，例如 拓海 Tuohai]",
+  "tagline": "外贸独立站 SEO 落地咨询",
+  "person": "[联系人姓名，例如 Kevin Fan]",
+  "wechat": "",
+  "email": "[你的邮箱，例如 you@example.com]",
+  "website": "[你的官网，例如 https://your-site.com]",
+  "qrImage": "qr-wechat.png",
+  "qrCodeText": "",
+  "primaryColor": "#1F4E78",
+  "accentColor": "#D9550B",
+  "note": "扫码加我微信，免费聊 20 分钟，把 P0/P1 问题的优先级和修复方案过一遍。"
+}

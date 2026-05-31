@@ -1,0 +1,13 @@
+node_modules/
+report/
+site/
+demo-report/
+demo-*/
+test-*/
+*.log
+.DS_Store
+
+# 个人信息：本地保留，不进公开仓库（用 contact.example.json 作模板）
+contact.json
+qr-wechat.png
+qr-*.png

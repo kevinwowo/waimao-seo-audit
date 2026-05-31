@@ -1,0 +1,12 @@
+{
+  "name": "waimao-seo-audit",
+  "version": "1.2.0",
+  "description": "外贸独立站 SEO 体检 Pack —— 整站抓取、P0–P3 问题分级、关键词聚类、Fan-Out 候选 query（含 ✓/✗ 覆盖度），生成可白标的 HTML 报告 + Excel。专为跨境 DTC / Shopify 独立站设计。",
+  "author": {
+    "name": "Kevin Fan (拓海 Tuohai)",
+    "url": "https://tuohai-global.com"
+  },
+  "homepage": "https://github.com/kevinwowo/waimao-seo-audit",
+  "license": "MIT",
+  "keywords": ["seo", "audit", "cross-border", "外贸", "独立站", "shopify", "keyword-clustering", "fan-out"]
+}
